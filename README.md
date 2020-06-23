@@ -7,8 +7,8 @@
 只需要三行代码即可导出数据。
 暂时只支持数据导出（对导入感兴趣的同学，请参考openpyxl官网）
 
-暂时支持以下：
-	自定义表格名称
+暂时支持一下：
+		自定义表格名称
         自定义sheet名称
         表头list动态填充
         数据list动态填充
@@ -93,3 +93,9 @@ if __name__ == '__main__':
 复杂表头请参考 `case package`
 
 
+
+![](https://gitee.com/WorldLine/pexecl/raw/master/images/pexcel_secondary.png)
+
+
+
+![](https://gitee.com/WorldLine/pexecl/raw/master/images/pexecl_muti.png)
