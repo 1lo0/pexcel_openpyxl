@@ -71,7 +71,7 @@ if __name__ == '__main__':
     # 获取当前的默认sheet
     ws = wb.active
     # 默认sheet数据、样式、过滤等填充
-    TableCommon.excel_common(wb=wb, ws=ws, sheet_name='Appche_ABC',
+    TableCommon.excel_write_common(wb=wb, ws=ws, sheet_name='Appche_ABC',
                              target_name='pexcel_appche_project.xlsx',
                              subject_list=['A', 'B', 'C'],
                              info_list=[
